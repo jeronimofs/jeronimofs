@@ -11,6 +11,6 @@ Já trabalhei com diversas linguagens, mas me especializei em backend.
 
 ## Contato
 - [jeronimo.fs@protonmail.com](mailto:jeronimo.fs@protonmail.com)
-- [Mastodon](https://bolha.us/jeronimofagundes)
+- [Mastodon](https://bolha.us/@jeronimofagundes)
 - [X](https://x.com/jeronimodevbr)
 - [Instagram](https://instagram.com/jeronimo.dev.br)
