@@ -12,6 +12,8 @@ Repositórios referentes ao meu trabalho profissional não estão nesse perfil.
 
 Já trabalhei com diversas linguagens, mas me especializei em backend. 
 
+Você pode ver *meu currículo atualizado [aqui](https://lattes.cnpq.br/8920315622282453)*.
+
 ## Contato
 - [jeronimo.fs@protonmail.com](mailto:jeronimo.fs@protonmail.com)
 - [Mastodon](https://bolha.us/@jeronimofagundes)
