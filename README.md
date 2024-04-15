@@ -15,5 +15,5 @@ Já trabalhei com diversas linguagens, mas me especializei em backend.
 Você pode ver *meu currículo atualizado [aqui](https://lattes.cnpq.br/8920315622282453)*.
 
 ## Contato
-- [jfsilva@inf.ufrgs.br](mailto:jfsilva@inf.ufrgs.br)
+- [contato@jeronimo.dev.br](mailto:contato@jeronimo.dev.br)
 - [Mastodon](https://bolha.us/@jeronimofagundes)
