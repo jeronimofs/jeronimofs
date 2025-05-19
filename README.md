@@ -16,4 +16,4 @@ Você pode ver *meu currículo atualizado [aqui](https://lattes.cnpq.br/89203156
 
 ## Contato
 - [contato@jeronimo.dev.br](mailto:contato@jeronimo.dev.br)
-- [Mastodon](https://bolha.us/@jeronimofagundes)
+- [Mastodon](https://mastodon.social/@jeronimofs)
