@@ -15,5 +15,5 @@ Já trabalhei com diversas linguagens, mas me especializei em backend.
 Você pode ver *meu currículo atualizado [aqui](https://lattes.cnpq.br/8920315622282453)*.
 
 ## Contato
-- [contato@jeronimo.dev.br](mailto:contato@jeronimo.dev.br)
+- [jeronimo.fs@protonmail.com](mailto:jeronimo.fs@protonmail.com)
 - [Mastodon](https://mastodon.social/@jeronimofs)
