@@ -13,8 +13,3 @@ Repositórios referentes ao meu trabalho profissional não estão nesse perfil, 
 Já trabalhei com diversas linguagens, mas me especializei em backend. Atualmente, desenvolvo aplicações em Golang na [Dinamize](https://www.dinamize.com.br/).
 
 Você pode ver *meu currículo atualizado [aqui](https://lattes.cnpq.br/8920315622282453)*.
-
-## Contato
-- [jeronimo.fs@outlook.com](mailto:jeronimo.fs@outlook.com)
-- [Fediverso](https://social.poa.br/@bytetinker)
-- [Instagram](https://instagram.com/bytetinker)
